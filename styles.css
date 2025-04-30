@@ -40,11 +40,12 @@ header {
 
 section img{
     display: flex;
-    width: 110%;
+    width: 125%;
     height: 110%;
     text-align: center;
-    transform: translate(-4%, 29%);
+    transform: translate(-10%, 22%);
 }
+
 
 footer {
     position: absolute;
